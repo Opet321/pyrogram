@@ -35,7 +35,7 @@ class ChatTopics(
     CreateForumTopic,
     DeleteForumTopic,
     EditForumTopic, 
-    ReopenGeneralTopic
+    ReopenGeneralTopic,
     GetForumTopic,
     GetForumTopicIconStickers,
     GetForumTopics,
