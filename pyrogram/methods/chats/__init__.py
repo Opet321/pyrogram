@@ -28,7 +28,8 @@ from .delete_supergroup import DeleteSupergroup
 from .delete_user_history import DeleteUserHistory
 from .get_chat import GetChat
 from .get_chat_event_log import GetChatEventLog
-from .get_chat_member import GetChatMember
+from .get_chat_member import GetChatMember 
+from .reopen_general_topic import ReopenGeneralTopic
 from .get_chat_members import GetChatMembers
 from .get_chat_members_count import GetChatMembersCount
 from .get_chat_online_count import GetChatOnlineCount
