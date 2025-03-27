@@ -242,7 +242,8 @@ def pyrogram_api():
             set_chat_title
             set_chat_description
             pin_chat_message
-            unpin_chat_message
+            unpin_chat_message 
+            reopen_general_topic
             unpin_all_chat_messages
             search_chats
             join_chat
