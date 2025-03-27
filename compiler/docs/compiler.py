@@ -303,7 +303,8 @@ def pyrogram_api():
             create_forum_topic
             edit_forum_topic
             close_forum_topic
-            reopen_forum_topic
+            reopen_forum_topic 
+            reopen_general_topic
             delete_forum_topic
             hide_forum_topic
             unhide_forum_topic
